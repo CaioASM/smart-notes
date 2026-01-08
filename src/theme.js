@@ -8,7 +8,7 @@ const theme = createTheme({
   palette: {
     mode: 'light',
     primary: {
-      main: '#1976d2', // MUI's default blue
+      main: '#1976d2', 
     },
   },
   components: {
